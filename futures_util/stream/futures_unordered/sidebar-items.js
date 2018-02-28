@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["futures_unordered","Converts a list of futures into a `Stream` of results from the futures."]],"struct":[["FuturesUnordered","A set of `Future`s which may complete in any order."],["IterMut","Mutable iterator over all futures in the unordered set."]]});
